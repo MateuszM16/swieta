@@ -1,0 +1,83 @@
+body
+{
+    background-color: blueviolet;
+    font-family: 'Ma Shan Zheng', cursive;
+}
+
+.banner
+{
+    background-image: url("./tlo2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover; 
+
+    width: 100%;
+    height: 15vh;
+    background-color:red;
+    font-size: 5vw;
+    text-align: center;
+    line-height: 15vh;
+    font-family: 'Ma Shan Zheng', cursive;
+
+    color: #FFFFFF;
+
+    text-shadow: 0 0 5px #FFF, 0 0 10px #FFF, 0 0 15px #FFF, 0 0 20px #49ff18, 0 0 30px #49FF18, 0 0 40px #49FF18, 0 0 55px #49FF18, 0 0 75px #49ff18;
+    color: #FFFFFF;
+
+}
+
+.menu
+{
+
+    background-image: url("./tlo3.jpg");
+    background-repeat: no-repeat;
+    background-size: cover; 
+
+    float: left;
+    width: 30%;
+    height: 70vh;
+    background-color: blue;
+    font-family: 'Ma Shan Zheng', cursive;
+    text-align: center;
+    font-size: 3vw;
+
+    color:wheat;
+    
+}
+
+.koleda
+{
+    background-image: url("./tlo.jpg");
+    float: left;
+    width: 70%;
+    height: 70vh;
+
+    background-repeat: no-repeat;
+    background-size: cover; 
+    font-size: 1.5vw;
+    font-family: 'Cabin', sans-serif;
+    color: wheat;
+
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: left;
+}
+
+.x
+{
+
+    width: 40%;
+    text-align: center;
+    padding-left: 10vw;
+
+}
+
+.stopka
+{
+    
+    clear: both;
+    width: 100%;
+    height: 10vh;
+    background-color: black;
+}
